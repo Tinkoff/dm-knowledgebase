@@ -1,5 +1,5 @@
 # Delivery Manager's Knowledge Base
-База знаний профессии Delivery Manager. Изучать удобнее всего на [нашем сайте](https://s3-website.tinkoff.ru/delivery-manager/delivery-manager-knowledge-base/).
+База знаний профессии Delivery Manager. Изучать удобнее всего на [нашем сайте](https://tinkoff.github.io/dm-knowledgebase/).
 
 ## Зачем это всё
 Профессия Delivery Manager молодая, можно сказать не устояшаяся. Мы, в Тинькофф, очень хотим рассказать о ней как можно большему количеству людей и поэтому решились на серьезный шаг - создание базы знаний профессии.
