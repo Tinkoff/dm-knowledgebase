@@ -46,6 +46,11 @@ module.exports = {
           label: 'Профессия',
         },
         {
+          type: 'docsVersionDropdown',
+          position: 'right',
+          dropdownActiveClassDisabled: true,
+        },
+        {
           href: 'https://github.com/Tinkoff/dm-knowledgebase',
           label: 'Репозиторий',
           position: 'right',
@@ -62,6 +67,13 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          lastVersion: '0.0.1',
+          versions: {
+            current: {
+              label: '1.0.0 🚧',
+              banner: 'unreleased',
+            },
+          },
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
