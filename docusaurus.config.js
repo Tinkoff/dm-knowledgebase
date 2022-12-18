@@ -79,6 +79,10 @@ module.exports = {
           editUrl:
             'https://github.com/Tinkoff/dm-knowledgebase/edit/main/',
         },
+        gtag: {
+          trackingID: 'G-CNJ52NL21B',
+          anonymizeIP: true,
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
