@@ -4013,7 +4013,7 @@ dns-packet@^5.2.2:
   dependencies:
     "@leichtgewicht/ip-codec" "^2.0.1"
 
-docusaurus-lunr-search@^2.1.14:
+docusaurus-lunr-search@^2.3.2:
   version "2.3.2"
   resolved "https://registry.yarnpkg.com/docusaurus-lunr-search/-/docusaurus-lunr-search-2.3.2.tgz#9991ef51addb0bf09ac80a06cb5729f28939332d"
   integrity sha512-Ngvm2kXwliWThqAThXI1912rOKHlFL7BjIc+OVNUfzkjpk5ar4TFEh+EUaaMOLw4V0BBko3CW0Ym7prqqm3jLQ==
