@@ -1,0 +1,4 @@
+label: 'Управление работой'
+position: 30
+collapsible: false
+className: disabled-category

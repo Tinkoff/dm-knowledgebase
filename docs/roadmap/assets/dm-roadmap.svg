@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" preserveAspectRatio="none" style="background:#FFFFFF;" version="1.1" viewBox="0 0 2312 1717" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="79.1875" id="_legend" rx="7.5" ry="7.5" style="stroke:#000000;stroke-width:1.0;" width="365" x="972" y="10"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="98" x="977" y="29.9951">Обозначение</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="85" x="1079" y="29.9951">Что делать</text><rect fill="#90EE90" height="16.2969" style="stroke:none;stroke-width:1.0;" width="98" x="977" y="33.2969"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="4" x="977" y="46.292"> </text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="253" x="1079" y="46.292">Какая задача перед тобой стоит?</text><rect fill="#ADD8E6" height="16.2969" style="stroke:none;stroke-width:1.0;" width="98" x="977" y="49.5938"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="4" x="977" y="62.5889"> </text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="53" x="1079" y="62.5889">Уточни</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="78" x="977" y="78.8857">Без рамки</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="43" x="1079" y="78.8857">Изучи</text><line style="stroke:#000000;stroke-width:1.0;" x1="977" x2="1332" y1="17" y2="17"/><line style="stroke:#000000;stroke-width:1.0;" x1="977" x2="1332" y1="33.2969" y2="33.2969"/><line style="stroke:#000000;stroke-width:1.0;" x1="977" x2="1332" y1="49.5938" y2="49.5938"/><line style="stroke:#000000;stroke-width:1.0;" x1="977" x2="1332" y1="65.8906" y2="65.8906"/><line style="stroke:#000000;stroke-width:1.0;" x1="977" x2="1332" y1="82.1875" y2="82.1875"/><line style="stroke:#000000;stroke-width:1.0;" x1="977" x2="977" y1="17" y2="82.1875"/><line style="stroke:#000000;stroke-width:1.0;" x1="1075" x2="1075" y1="17" y2="82.1875"/><line style="stroke:#000000;stroke-width:1.0;" x1="1332" x2="1332" y1="17" y2="82.1875"/><rect fill="#FFFFFF" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="144" x="1177" y="884.832"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="124" x="1187" y="907.8271">Delivery Manager</text><rect fill="#90EE90" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="216" x="1361" y="150.2266"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="196" x="1371" y="173.2217">Управление изменениями</text><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="230" x="1617" y="122.7813"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="210" x="1627" y="145.7764">Анализ/изучение контекста</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="142" x="1890" y="109.1826">Модель «Кеневин»</text><path d="M1847,140.9297 L1857,140.9297 C1872,140.9297 1862,104.3359 1877,104.3359 L1887,104.3359 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="293" x="1890" y="127.4795">Дерево текущей/будущей реальности</text><path d="M1847,140.9297 L1857,140.9297 C1872,140.9297 1862,122.6328 1877,122.6328 L1887,122.6328 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="95" x="1890" y="145.7764">Пять почему</text><path d="M1847,140.9297 L1857,140.9297 C1872,140.9297 1862,140.9297 1877,140.9297 L1887,140.9297 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="152" x="1890" y="164.0732">Диаграмма Исикавы</text><path d="M1847,140.9297 L1857,140.9297 C1872,140.9297 1862,159.2266 1877,159.2266 L1887,159.2266 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="40" x="1890" y="182.3701">PDCA</text><path d="M1847,140.9297 L1857,140.9297 C1872,140.9297 1862,177.5234 1877,177.5234 L1887,177.5234 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1577,168.375 L1587,168.375 C1602,168.375 1592,140.9297 1607,140.9297 L1617,140.9297 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="181" x="1617" y="195.9688"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="161" x="1627" y="218.9639">Последовательность</text><a href="change-management/order/kotter-8-steps" target="_top" title="change-management/order/kotter-8-steps" xlink:actuate="onRequest" xlink:href="change-management/order/kotter-8-steps" xlink:show="new" xlink:title="change-management/order/kotter-8-steps" xlink:type="simple"><text fill="#0000FF" font-family="Verdana" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="126" x="1841" y="200.667">8 шагов Коттера</text></a><path d="M1798,214.1172 L1808,214.1172 C1823,214.1172 1813,195.8203 1828,195.8203 L1838,195.8203 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="51" x="1841" y="218.9639">ADKAR</text><path d="M1798,214.1172 L1808,214.1172 C1823,214.1172 1813,214.1172 1828,214.1172 L1838,214.1172 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="165" x="1841" y="237.2607">Модель Курта Левина</text><path d="M1798,214.1172 L1808,214.1172 C1823,214.1172 1813,232.4141 1828,232.4141 L1838,232.4141 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1577,168.375 L1587,168.375 C1602,168.375 1592,214.1172 1607,214.1172 L1617,214.1172 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1321,902.9805 L1331,902.9805 C1346,902.9805 1336,168.375 1351,168.375 L1361,168.375 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#90EE90" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="174" x="1361" y="269.7109"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="154" x="1371" y="292.7061">Управление людьми</text><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="56" x="1575" y="246.5625"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="36" x="1585" y="269.5576">Роли</text><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="73" x="1671" y="246.5625"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="53" x="1681" y="269.5576">Анализ</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="140" x="1787" y="269.5576">PAEI (код Адизеса)</text><path d="M1744,264.7109 L1754,264.7109 C1769,264.7109 1759,264.7109 1774,264.7109 L1784,264.7109 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1631,264.7109 L1641,264.7109 C1656,264.7109 1646,264.7109 1661,264.7109 L1671,264.7109 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1535,287.8594 L1545,287.8594 C1560,287.8594 1550,264.7109 1565,264.7109 L1575,264.7109 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="92" x="1575" y="292.8594"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="72" x="1585" y="315.8545">Обучение</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="84" x="1710" y="306.7061">Менторинг</text><path d="M1667,311.0078 L1677,311.0078 C1692,311.0078 1682,301.8594 1697,301.8594 L1707,301.8594 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="61" x="1710" y="325.0029">Коучинг</text><path d="M1667,311.0078 L1677,311.0078 C1692,311.0078 1682,320.1563 1697,320.1563 L1707,320.1563 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1535,287.8594 L1545,287.8594 C1560,287.8594 1550,311.0078 1565,311.0078 L1575,311.0078 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1321,902.9805 L1331,902.9805 C1346,902.9805 1336,287.8594 1351,287.8594 L1361,287.8594 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#90EE90" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="177" x="1361" y="455.4922"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="157" x="1371" y="478.4873">Управление работой</text><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="91" x="1578" y="409.1953"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="71" x="1588" y="432.1904">Задачами</text><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="128" x="1709" y="351.6016"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="108" x="1719" y="374.5967">Планирование</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="134" x="1880" y="348.1514">На основе данных</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="153" x="2057" y="348.1514">Метод Монте-Карло</text><path d="M2014,343.3047 L2024,343.3047 C2039,343.3047 2029,343.3047 2044,343.3047 L2054,343.3047 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1837,369.75 L1847,369.75 C1862,369.75 1852,343.3047 1867,343.3047 L1877,343.3047 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="273" x="1880" y="366.4482">Недельное, месячное, квартальное,</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="113" x="1880" y="382.7451">годовое и т. д.</text><path d="M1837,369.75 L1847,369.75 C1862,369.75 1852,369.75 1867,369.75 L1877,369.75 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="109" x="1880" y="401.042">Револьверное</text><path d="M1837,369.75 L1847,369.75 C1862,369.75 1852,396.1953 1867,396.1953 L1877,396.1953 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1669,427.3438 L1679,427.3438 C1694,427.3438 1684,369.75 1699,369.75 L1709,369.75 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="139" x="1709" y="432.9375"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="119" x="1719" y="455.9326">Приоритезация</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="135" x="1891" y="437.6357">Скорринг модели</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="33" x="2069" y="419.3389">RICE</text><path d="M2026,432.7891 L2036,432.7891 C2051,432.7891 2041,414.4922 2056,414.4922 L2066,414.4922 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="23" x="2069" y="437.6357">ICE</text><path d="M2026,432.7891 L2036,432.7891 C2051,432.7891 2041,432.7891 2056,432.7891 L2066,432.7891 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="35" x="2069" y="455.9326">WSJF</text><path d="M2026,432.7891 L2036,432.7891 C2051,432.7891 2041,451.0859 2056,451.0859 L2066,451.0859 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1848,451.0859 L1858,451.0859 C1873,451.0859 1863,432.7891 1878,432.7891 L1888,432.7891 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="114" x="1891" y="483.3779">Оценка рисков</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="28" x="2048" y="474.2295">RAF</text><path d="M2005,478.5313 L2015,478.5313 C2030,478.5313 2020,469.3828 2035,469.3828 L2045,469.3828 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="43" x="2048" y="492.5264">ROAM</text><path d="M2005,478.5313 L2015,478.5313 C2030,478.5313 2020,487.6797 2035,487.6797 L2045,487.6797 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1848,451.0859 L1858,451.0859 C1873,451.0859 1863,478.5313 1878,478.5313 L1888,478.5313 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1669,427.3438 L1679,427.3438 C1694,427.3438 1684,451.0859 1699,451.0859 L1709,451.0859 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="76" x="1709" y="479.2344"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="56" x="1719" y="502.2295">Оценка</text><path d="M1669,427.3438 L1679,427.3438 C1694,427.3438 1684,497.3828 1699,497.3828 L1709,497.3828 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1538,473.6406 L1548,473.6406 C1563,473.6406 1553,427.3438 1568,427.3438 L1578,427.3438 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="206" x="1578" y="525.5313"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="186" x="1588" y="548.5264">Проектирование систем</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="162" x="1827" y="539.3779">Value Stream Mapping</text><path d="M1784,543.6797 L1794,543.6797 C1809,543.6797 1799,534.5313 1814,534.5313 L1824,534.5313 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="81" x="1827" y="557.6748">S.T.A.T.I.K.</text><path d="M1784,543.6797 L1794,543.6797 C1809,543.6797 1799,552.8281 1814,552.8281 L1824,552.8281 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1538,473.6406 L1548,473.6406 C1563,473.6406 1553,543.6797 1568,543.6797 L1578,543.6797 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="189" x="1578" y="571.8281"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="169" x="1588" y="594.8232">Фреймворки/подходы</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="34" x="1810" y="585.6748">Lean</text><path d="M1767,589.9766 L1777,589.9766 C1792,589.9766 1782,580.8281 1797,580.8281 L1807,580.8281 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="69" x="1810" y="603.9717">Six Sigma</text><path d="M1767,589.9766 L1777,589.9766 C1792,589.9766 1782,599.125 1797,599.125 L1807,599.125 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1538,473.6406 L1548,473.6406 C1563,473.6406 1553,589.9766 1568,589.9766 L1578,589.9766 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1321,902.9805 L1331,902.9805 C1346,902.9805 1336,473.6406 1351,473.6406 L1361,473.6406 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#90EE90" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="198" x="1361" y="691.3125"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="178" x="1371" y="714.3076">Управление продуктом</text><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="191" x="1599" y="618.125"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="171" x="1609" y="641.1201">Знание бизнес-домена</text><path d="M1559,709.4609 L1569,709.4609 C1584,709.4609 1574,636.2734 1589,636.2734 L1599,636.2734 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="148" x="1599" y="714.4609"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="128" x="1609" y="737.4561">Проектирование</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="98" x="1790" y="673.417">Модель Kano</text><path d="M1747,732.6094 L1757,732.6094 C1772,732.6094 1762,668.5703 1777,668.5703 L1787,668.5703 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="161" x="1790" y="691.7139">Customer Journey Map</text><path d="M1747,732.6094 L1757,732.6094 C1772,732.6094 1762,686.8672 1777,686.8672 L1787,686.8672 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="93" x="1790" y="710.0107">Lean Startup</text><path d="M1747,732.6094 L1757,732.6094 C1772,732.6094 1762,705.1641 1777,705.1641 L1787,705.1641 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="180" x="1790" y="728.3076">Value Proposition Canvas</text><path d="M1747,732.6094 L1757,732.6094 C1772,732.6094 1762,723.4609 1777,723.4609 L1787,723.4609 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="121" x="1790" y="746.6045">Customer Profile</text><path d="M1747,732.6094 L1757,732.6094 C1772,732.6094 1762,741.7578 1777,741.7578 L1787,741.7578 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="162" x="1790" y="764.9014">Business Model Canvas</text><path d="M1747,732.6094 L1757,732.6094 C1772,732.6094 1762,760.0547 1777,760.0547 L1787,760.0547 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="175" x="1790" y="783.1982">Business Model Portfolio</text><path d="M1747,732.6094 L1757,732.6094 C1772,732.6094 1762,778.3516 1777,778.3516 L1787,778.3516 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="73" x="1790" y="801.4951">Value Map</text><path d="M1747,732.6094 L1757,732.6094 C1772,732.6094 1762,796.6484 1777,796.6484 L1787,796.6484 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1559,709.4609 L1569,709.4609 C1584,709.4609 1574,732.6094 1589,732.6094 L1599,732.6094 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1321,902.9805 L1331,902.9805 C1346,902.9805 1336,709.4609 1351,709.4609 L1361,709.4609 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#90EE90" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="210" x="1361" y="857.0938"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="190" x="1371" y="880.0889">Управление окружением</text><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="91" x="1611" y="810.7969"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="71" x="1621" y="833.792">Культура</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="153" x="1745" y="824.6436">Mission Model Canvas</text><path d="M1702,828.9453 L1712,828.9453 C1727,828.9453 1717,819.7969 1732,819.7969 L1742,819.7969 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="86" x="1745" y="842.9404">Culture Map</text><path d="M1702,828.9453 L1712,828.9453 C1727,828.9453 1717,838.0938 1732,838.0938 L1742,838.0938 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1571,875.2422 L1581,875.2422 C1596,875.2422 1586,828.9453 1601,828.9453 L1611,828.9453 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="86" x="1611" y="857.0938"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="66" x="1621" y="880.0889">Доверие</text><path d="M1571,875.2422 L1581,875.2422 C1596,875.2422 1586,875.2422 1601,875.2422 L1611,875.2422 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="136" x="1611" y="903.3906"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="116" x="1621" y="926.3857">Взаимопомощь</text><path d="M1571,875.2422 L1581,875.2422 C1596,875.2422 1586,921.5391 1601,921.5391 L1611,921.5391 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1321,902.9805 L1331,902.9805 C1346,902.9805 1336,875.2422 1351,875.2422 L1361,875.2422 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#90EE90" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="186" x="1361" y="1145.3945"/><a href="groups-management/" target="_top" title="groups-management/" xlink:actuate="onRequest" xlink:href="groups-management/" xlink:show="new" xlink:title="groups-management/" xlink:type="simple"><text fill="#0000FF" font-family="Verdana" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="166" x="1371" y="1168.3896">Управление группами</text></a><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="119" x="1587" y="949.6875"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="99" x="1597" y="972.6826">Организации</text><path d="M1547,1163.543 L1557,1163.543 C1572,1163.543 1562,967.8359 1577,967.8359 L1587,967.8359 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="105" x="1587" y="1122.2461"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="85" x="1597" y="1145.2412">Командами</text><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="71" x="1732" y="995.9844"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="51" x="1742" y="1018.9795">Запуск</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="102" x="1846" y="1018.9795">Team Kick-off</text><path d="M1803,1014.1328 L1813,1014.1328 C1828,1014.1328 1818,1014.1328 1833,1014.1328 L1843,1014.1328 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1692,1140.3945 L1702,1140.3945 C1717,1140.3945 1707,1014.1328 1722,1014.1328 L1732,1014.1328 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="56" x="1732" y="1042.2813"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="36" x="1742" y="1065.2764">Роли</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="104" x="1831" y="1065.2764">Матрица RACI</text><path d="M1788,1060.4297 L1798,1060.4297 C1813,1060.4297 1803,1060.4297 1818,1060.4297 L1828,1060.4297 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1692,1140.3945 L1702,1140.3945 C1717,1140.3945 1707,1060.4297 1722,1060.4297 L1732,1060.4297 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="97" x="1732" y="1088.5781"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="77" x="1742" y="1111.5732">Ре-дизайн</text><a href="groups-management/teams/re-design/team-topologies" target="_top" title="groups-management/teams/re-design/team-topologies" xlink:actuate="onRequest" xlink:href="groups-management/teams/re-design/team-topologies" xlink:show="new" xlink:title="groups-management/teams/re-design/team-topologies" xlink:type="simple"><text fill="#0000FF" font-family="Verdana" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="123" x="1872" y="1102.4248">Team Topologies</text></a><path d="M1829,1106.7266 L1839,1106.7266 C1854,1106.7266 1844,1097.5781 1859,1097.5781 L1869,1097.5781 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="37" x="1872" y="1120.7217">unFix</text><path d="M1829,1106.7266 L1839,1106.7266 C1854,1106.7266 1844,1115.875 1859,1115.875 L1869,1115.875 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1692,1140.3945 L1702,1140.3945 C1717,1140.3945 1707,1106.7266 1722,1106.7266 L1732,1106.7266 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="118" x="1732" y="1134.875"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="98" x="1742" y="1157.8701">Фреймворки</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="45" x="1893" y="1157.8701">Scrum</text><path d="M1850,1153.0234 L1860,1153.0234 C1875,1153.0234 1865,1153.0234 1880,1153.0234 L1890,1153.0234 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1692,1140.3945 L1702,1140.3945 C1717,1140.3945 1707,1153.0234 1722,1153.0234 L1732,1153.0234 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="58" x="1732" y="1185.4688"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="38" x="1742" y="1208.4639">Типы</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="103" x="1833" y="1190.167">Продуктовые</text><path d="M1790,1203.6172 L1800,1203.6172 C1815,1203.6172 1805,1185.3203 1820,1185.3203 L1830,1185.3203 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="96" x="1833" y="1208.4639">Технические</text><path d="M1790,1203.6172 L1800,1203.6172 C1815,1203.6172 1805,1203.6172 1820,1203.6172 L1830,1203.6172 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="84" x="1833" y="1226.7607">Сервисные</text><path d="M1790,1203.6172 L1800,1203.6172 C1815,1203.6172 1805,1221.9141 1820,1221.9141 L1830,1221.9141 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1692,1140.3945 L1702,1140.3945 C1717,1140.3945 1707,1203.6172 1722,1203.6172 L1732,1203.6172 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="269" x="1732" y="1236.0625"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="249" x="1742" y="1259.0576">Межкомандные взаимодействия</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="183" x="2044" y="1232.6123">Сквозное планирование</text><path d="M2001,1254.2109 L2011,1254.2109 C2026,1254.2109 2016,1227.7656 2031,1227.7656 L2041,1227.7656 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="185" x="2044" y="1250.9092">Работа с зависимостями</text><path d="M2001,1254.2109 L2011,1254.2109 C2026,1254.2109 2016,1246.0625 2031,1246.0625 L2041,1246.0625 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="257" x="2044" y="1269.2061">Работа с передачей опыта другой</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="65" x="2044" y="1285.5029">команде</text><path d="M2001,1254.2109 L2011,1254.2109 C2026,1254.2109 2016,1272.5078 2031,1272.5078 L2041,1272.5078 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1692,1140.3945 L1702,1140.3945 C1717,1140.3945 1707,1254.2109 1722,1254.2109 L1732,1254.2109 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1547,1163.543 L1557,1163.543 C1572,1163.543 1562,1140.3945 1577,1140.3945 L1587,1140.3945 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="240" x="1587" y="1294.8047"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="220" x="1597" y="1317.7998">Племена/социальные группы</text><path d="M1547,1163.543 L1557,1163.543 C1572,1163.543 1562,1312.9531 1577,1312.9531 L1587,1312.9531 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="107" x="1587" y="1341.1016"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="87" x="1597" y="1364.0967">Комьюнити</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="137" x="1737" y="1364.0967">Community Canvas</text><path d="M1694,1359.25 L1704,1359.25 C1719,1359.25 1709,1359.25 1724,1359.25 L1734,1359.25 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1547,1163.543 L1557,1163.543 C1572,1163.543 1562,1359.25 1577,1359.25 L1587,1359.25 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1321,902.9805 L1331,902.9805 C1346,902.9805 1336,1163.543 1351,1163.543 L1361,1163.543 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#90EE90" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="197" x="1361" y="1528.4375"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="177" x="1371" y="1551.4326">Управление проектами</text><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="64" x="1598" y="1387.3984"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="44" x="1608" y="1410.3936">Риски</text><path d="M1558,1546.5859 L1568,1546.5859 C1583,1546.5859 1573,1405.5469 1588,1405.5469 L1598,1405.5469 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="67" x="1598" y="1433.6953"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="47" x="1608" y="1456.6904">Сроки</text><path d="M1558,1546.5859 L1568,1546.5859 C1583,1546.5859 1573,1451.8438 1588,1451.8438 L1598,1451.8438 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="83" x="1598" y="1479.9922"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="63" x="1608" y="1502.9873">Бюджет</text><path d="M1558,1546.5859 L1568,1546.5859 C1583,1546.5859 1573,1498.1406 1588,1498.1406 L1598,1498.1406 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="131" x="1598" y="1526.2891"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="111" x="1608" y="1549.2842">Документация</text><path d="M1558,1546.5859 L1568,1546.5859 C1583,1546.5859 1573,1544.4375 1588,1544.4375 L1598,1544.4375 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="125" x="1598" y="1572.5859"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="105" x="1608" y="1595.5811">Безопасность</text><path d="M1558,1546.5859 L1568,1546.5859 C1583,1546.5859 1573,1590.7344 1588,1590.7344 L1598,1590.7344 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="128" x="1598" y="1618.8828"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="108" x="1608" y="1641.8779">Планирование</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="117" x="1769" y="1641.8779">Impact Mapping</text><path d="M1726,1637.0313 L1736,1637.0313 C1751,1637.0313 1741,1637.0313 1756,1637.0313 L1766,1637.0313 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1558,1546.5859 L1568,1546.5859 C1583,1546.5859 1573,1637.0313 1588,1637.0313 L1598,1637.0313 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="189" x="1598" y="1665.1797"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="169" x="1608" y="1688.1748">Фреймворки/подходы</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="58" x="1830" y="1669.8779">PMBook</text><path d="M1787,1683.3281 L1797,1683.3281 C1812,1683.3281 1802,1665.0313 1817,1665.0313 L1827,1665.0313 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="53" x="1830" y="1688.1748">Prince2</text><path d="M1787,1683.3281 L1797,1683.3281 C1812,1683.3281 1802,1683.3281 1817,1683.3281 L1827,1683.3281 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="153" x="1830" y="1706.4717">Team Alignment Map</text><path d="M1787,1683.3281 L1797,1683.3281 C1812,1683.3281 1802,1701.625 1817,1701.625 L1827,1701.625 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1558,1546.5859 L1568,1546.5859 C1583,1546.5859 1573,1683.3281 1588,1683.3281 L1598,1683.3281 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1321,902.9805 L1331,902.9805 C1346,902.9805 1336,1546.5859 1351,1546.5859 L1361,1546.5859 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#90EE90" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="242" x="895" y="630.1992"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="222" x="905" y="653.1943">Профессиональное развитие</text><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="194" x="661" y="227.3398"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="174" x="671" y="250.335">Работа с информацией</text><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="289" x="332" y="227.3398"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="269" x="342" y="250.335">Создание собственной базы знаний</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="218" x="71" y="222.8896">Zettelkasten Никласа Лумана</text><path d="M332,245.4883 L322,245.4883 C307,245.4883 317,218.043 302,218.043 L292,218.043 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="284" x="5" y="241.1865">Вики подобные способы организации</text><path d="M332,245.4883 L322,245.4883 C307,245.4883 317,236.3398 302,236.3398 L292,236.3398 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="239" x="50" y="259.4834">Маркетплейсы/витрины знаний</text><path d="M332,245.4883 L322,245.4883 C307,245.4883 317,254.6367 302,254.6367 L292,254.6367 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="96" x="193" y="277.7803">Второй мозг</text><path d="M332,245.4883 L322,245.4883 C307,245.4883 317,272.9336 302,272.9336 L292,272.9336 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M661,245.4883 L651,245.4883 C636,245.4883 646,245.4883 631,245.4883 L621,245.4883 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M895,648.3477 L885,648.3477 C870,648.3477 880,245.4883 865,245.4883 L855,245.4883 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="121" x="734" y="273.6367"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="101" x="744" y="296.6318">Фасилитация</text><path d="M895,648.3477 L885,648.3477 C870,648.3477 880,291.7852 865,291.7852 L855,291.7852 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="230" x="625" y="372.8242"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="210" x="635" y="395.8193">Техническое совершенство</text><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="186" x="399" y="287.082"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="166" x="409" y="310.0771">Практики разработки</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="271" x="85" y="310.0771">Экстремальное программирование</text><path d="M399,305.2305 L389,305.2305 C374,305.2305 384,305.2305 369,305.2305 L359,305.2305 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M625,390.9727 L615,390.9727 C600,390.9727 610,305.2305 595,305.2305 L585,305.2305 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="90" x="495" y="333.3789"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="70" x="505" y="356.374">Качество</text><path d="M625,390.9727 L615,390.9727 C600,390.9727 610,351.5273 595,351.5273 L585,351.5273 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="52.5938" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="310" x="275" y="379.6758"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="286" x="285" y="402.6709">Настройка инструментов управления</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="63" x="285" y="418.9678">работой</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="183" x="49" y="410.8193">Atlassian product and etc</text><path d="M275,405.9727 L265,405.9727 C250,405.9727 260,405.9727 245,405.9727 L235,405.9727 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M625,390.9727 L615,390.9727 C600,390.9727 610,405.9727 595,405.9727 L585,405.9727 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="52.5938" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="265" x="320" y="442.2695"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="241" x="330" y="465.2646">Лёгкое кодирование/написание</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="126" x="330" y="481.5615">скриптов (Junior)</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="23" x="254" y="455.1162">JQL</text><path d="M320,468.5664 L310,468.5664 C295,468.5664 305,450.2695 290,450.2695 L280,450.2695 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="28" x="249" y="473.4131">SQL</text><path d="M320,468.5664 L310,468.5664 C295,468.5664 305,468.5664 290,468.5664 L280,468.5664 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="51" x="226" y="491.71">Python</text><path d="M320,468.5664 L310,468.5664 C295,468.5664 305,486.8633 290,486.8633 L280,486.8633 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M625,390.9727 L615,390.9727 C600,390.9727 610,468.5664 595,468.5664 L585,468.5664 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M895,648.3477 L885,648.3477 C870,648.3477 880,390.9727 865,390.9727 L855,390.9727 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="132" x="723" y="672.293"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="112" x="733" y="695.2881">Коммуникации</text><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="121" x="562" y="508.1602"/><a href="professional-growth/communications/facilitation" target="_top" title="professional-growth/communications/facilitation" xlink:actuate="onRequest" xlink:href="professional-growth/communications/facilitation" xlink:show="new" xlink:title="professional-growth/communications/facilitation" xlink:type="simple"><text fill="#0000FF" font-family="Verdana" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="101" x="572" y="531.1553">Фасилитация</text></a><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="106" x="413" y="513.8584">Групп/команд</text><path d="M562,526.3086 L552,526.3086 C537,526.3086 547,509.0117 532,509.0117 L522,509.0117 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="281" x="234" y="532.1553">"Крупных" совещаний: страт.сесии и</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="24" x="234" y="548.4521">т.д</text><path d="M562,526.3086 L552,526.3086 C537,526.3086 547,535.457 532,535.457 L522,535.457 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M723,690.4414 L713,690.4414 C698,690.4414 708,526.3086 693,526.3086 L683,526.3086 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="105" x="578" y="554.457"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="85" x="588" y="577.4521">Storytelling</text><path d="M723,690.4414 L713,690.4414 C698,690.4414 708,572.6055 693,572.6055 L683,572.6055 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="169" x="514" y="600.7539"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="149" x="524" y="623.749">Интервьюирование</text><path d="M723,690.4414 L713,690.4414 C698,690.4414 708,618.9023 693,618.9023 L683,618.9023 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="192" x="491" y="647.0508"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="172" x="501" y="670.0459">Работа с конфликтами</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="177" x="271" y="670.0459">Метод «Грозовая туча»</text><path d="M491,665.1992 L481,665.1992 C466,665.1992 476,665.1992 461,665.1992 L451,665.1992 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M723,690.4414 L713,690.4414 C698,690.4414 708,665.1992 693,665.1992 L683,665.1992 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="140" x="543" y="743.3867"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="120" x="553" y="766.3818">Обратная связь</text><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="106" x="397" y="715.9414"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="86" x="407" y="738.9365">Алгоритмы</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="181" x="173" y="702.3428">Модель Павла Безручко</text><path d="M397,734.0898 L387,734.0898 C372,734.0898 382,697.4961 367,697.4961 L357,697.4961 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="204" x="150" y="720.6396">Модель «Бутерброд» (+-+)</text><path d="M397,734.0898 L387,734.0898 C372,734.0898 382,715.793 367,715.793 L357,715.793 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="156" x="198" y="738.9365">Модель «Светофор»</text><path d="M397,734.0898 L387,734.0898 C372,734.0898 382,734.0898 367,734.0898 L357,734.0898 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="248" x="106" y="757.2334">Модель компании Леруа-Мерлен</text><path d="M397,734.0898 L387,734.0898 C372,734.0898 382,752.3867 367,752.3867 L357,752.3867 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="108" x="246" y="775.5303">Модель GROW</text><path d="M397,734.0898 L387,734.0898 C372,734.0898 382,770.6836 367,770.6836 L357,770.6836 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M543,761.5352 L533,761.5352 C518,761.5352 528,734.0898 513,734.0898 L503,734.0898 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="60" x="443" y="789.1289"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="40" x="453" y="812.124">Виды</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="100" x="300" y="802.9756">Оперативная</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="140" x="117" y="793.8271">Поддерживающая</text><path d="M300,798.1289 L290,798.1289 C275,798.1289 285,788.9805 270,788.9805 L260,788.9805 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="136" x="121" y="812.124">Корректирующая</text><path d="M300,798.1289 L290,798.1289 C275,798.1289 285,807.2773 270,807.2773 L260,807.2773 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M443,807.2773 L433,807.2773 C418,807.2773 428,798.1289 413,798.1289 L403,798.1289 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="260" x="140" y="830.4209">По результатам периода/времени</text><path d="M443,807.2773 L433,807.2773 C418,807.2773 428,825.5742 413,825.5742 L403,825.5742 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M543,761.5352 L533,761.5352 C518,761.5352 528,807.2773 513,807.2773 L503,807.2773 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M723,690.4414 L713,690.4414 C698,690.4414 708,761.5352 693,761.5352 L683,761.5352 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="193" x="490" y="839.7227"/><a href="professional-growth/communications/oratory" target="_top" title="professional-growth/communications/oratory" xlink:actuate="onRequest" xlink:href="professional-growth/communications/oratory" xlink:show="new" xlink:title="professional-growth/communications/oratory" xlink:type="simple"><text fill="#0000FF" font-family="Verdana" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="173" x="500" y="862.7178">Ораторское искусство</text></a><path d="M723,690.4414 L713,690.4414 C698,690.4414 708,857.8711 693,857.8711 L683,857.8711 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M895,648.3477 L885,648.3477 C870,648.3477 880,690.4414 865,690.4414 L855,690.4414 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="92" x="763" y="932.3164"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="72" x="773" y="955.3115">Обучение</text><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="99" x="624" y="886.0195"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="79" x="634" y="909.0146">Воркшопы</text><path d="M763,950.4648 L753,950.4648 C738,950.4648 748,904.168 733,904.168 L723,904.168 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="104" x="619" y="932.3164"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="84" x="629" y="955.3115">Менторинг</text><path d="M763,950.4648 L753,950.4648 C738,950.4648 748,950.4648 733,950.4648 L723,950.4648 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="81" x="642" y="978.6133"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="61" x="652" y="1001.6084">Коучинг</text><path d="M763,950.4648 L753,950.4648 C738,950.4648 748,996.7617 733,996.7617 L723,996.7617 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M895,648.3477 L885,648.3477 C870,648.3477 880,950.4648 865,950.4648 L855,950.4648 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="239" x="616" y="1024.9102"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="219" x="626" y="1047.9053">Работа с цифрами (данными)</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="158" x="415" y="1012.3115">Теория вероятности</text><path d="M616,1043.0586 L606,1043.0586 C591,1043.0586 601,1007.4648 586,1007.4648 L576,1007.4648 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="92" x="481" y="1030.6084">Математика</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="208" x="230" y="1030.6084">Математика рисков (Талеб)</text><path d="M481,1025.7617 L471,1025.7617 C456,1025.7617 466,1025.7617 451,1025.7617 L441,1025.7617 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M616,1043.0586 L606,1043.0586 C591,1043.0586 601,1025.7617 586,1025.7617 L576,1025.7617 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="67" x="506" y="1066.2021">Метрики</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="273" x="186" y="1048.9053">Умение принимать решение/делать</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="59" x="186" y="1065.2021">выводы</text><path d="M506,1061.3555 L496,1061.3555 C481,1061.3555 491,1052.207 476,1052.207 L466,1052.207 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="54" x="409" y="1083.499">Чтение</text><path d="M506,1061.3555 L496,1061.3555 C481,1061.3555 491,1078.6523 476,1078.6523 L466,1078.6523 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M616,1043.0586 L606,1043.0586 C591,1043.0586 601,1061.3555 586,1061.3555 L576,1061.3555 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M895,648.3477 L885,648.3477 C870,648.3477 880,1043.0586 865,1043.0586 L855,1043.0586 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1177,902.9805 L1167,902.9805 C1152,902.9805 1162,648.3477 1147,648.3477 L1137,648.3477 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#90EE90" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="180" x="957" y="1324.2852"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="160" x="967" y="1347.2803">Знание других ролей</text><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="126" x="791" y="1092.8008"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="106" x="801" y="1115.7959">Product Owner</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="121" x="627" y="1115.7959">Product Manager</text><path d="M791,1110.9492 L781,1110.9492 C766,1110.9492 776,1110.9492 761,1110.9492 L751,1110.9492 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M957,1342.4336 L947,1342.4336 C932,1342.4336 942,1110.9492 927,1110.9492 L917,1110.9492 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="116" x="801" y="1139.0977"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="96" x="811" y="1162.0928">Разработчик</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="92" x="666" y="1162.0928">Архитектор</text><path d="M801,1157.2461 L791,1157.2461 C776,1157.2461 786,1157.2461 771,1157.2461 L761,1157.2461 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M957,1342.4336 L947,1342.4336 C932,1342.4336 942,1157.2461 927,1157.2461 L917,1157.2461 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="41" x="876" y="1185.3945"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="21" x="886" y="1208.3896">QA</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="52" x="781" y="1199.2412">Ручной</text><path d="M876,1203.543 L866,1203.543 C851,1203.543 861,1194.3945 846,1194.3945 L836,1194.3945 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="118" x="715" y="1217.5381">Автоматизатор</text><path d="M876,1203.543 L866,1203.543 C851,1203.543 861,1212.6914 846,1212.6914 L836,1212.6914 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M957,1342.4336 L947,1342.4336 C932,1342.4336 942,1203.543 927,1203.543 L917,1203.543 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="93" x="824" y="1231.6914"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="73" x="834" y="1254.6865">Рекрутер</text><path d="M957,1342.4336 L947,1342.4336 C932,1342.4336 942,1249.8398 927,1249.8398 L917,1249.8398 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="128" x="789" y="1277.9883"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="108" x="799" y="1300.9834">Руководитель</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="57" x="689" y="1291.835">Тимлид</text><path d="M789,1296.1367 L779,1296.1367 C764,1296.1367 774,1286.9883 759,1286.9883 L749,1286.9883 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="113" x="633" y="1310.1318">Топ-менеджер</text><path d="M789,1296.1367 L779,1296.1367 C764,1296.1367 774,1305.2852 759,1305.2852 L749,1305.2852 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M957,1342.4336 L947,1342.4336 C932,1342.4336 942,1296.1367 927,1296.1367 L917,1296.1367 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="247" x="670" y="1324.2852"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="227" x="680" y="1347.2803">Маркетинг, PR, отдел продаж</text><path d="M957,1342.4336 L947,1342.4336 C932,1342.4336 942,1342.4336 927,1342.4336 L917,1342.4336 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="88" x="829" y="1370.582"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="68" x="839" y="1393.5771">Заказчик</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="101" x="685" y="1393.5771">Стейкхолдер</text><path d="M829,1388.7305 L819,1388.7305 C804,1388.7305 814,1388.7305 799,1388.7305 L789,1388.7305 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M957,1342.4336 L947,1342.4336 C932,1342.4336 942,1388.7305 927,1388.7305 L917,1388.7305 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="92" x="825" y="1416.8789"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="72" x="835" y="1439.874">Аналитик</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="159" x="623" y="1430.7256">Системный аналитик</text><path d="M825,1435.0273 L815,1435.0273 C800,1435.0273 810,1425.8789 795,1425.8789 L785,1425.8789 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="127" x="655" y="1449.0225">Бизнес аналитик</text><path d="M825,1435.0273 L815,1435.0273 C800,1435.0273 810,1444.1758 795,1444.1758 L785,1444.1758 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M957,1342.4336 L947,1342.4336 C932,1342.4336 942,1435.0273 927,1435.0273 L917,1435.0273 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="108" x="809" y="1463.1758"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="88" x="819" y="1486.1709">Поддержка</text><path d="M957,1342.4336 L947,1342.4336 C932,1342.4336 942,1481.3242 927,1481.3242 L917,1481.3242 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="93" x="824" y="1509.4727"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="73" x="834" y="1532.4678">Дизайнер</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="37" x="744" y="1532.4678">UI/UX</text><path d="M824,1527.6211 L814,1527.6211 C799,1527.6211 809,1527.6211 794,1527.6211 L784,1527.6211 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M957,1342.4336 L947,1342.4336 C932,1342.4336 942,1527.6211 927,1527.6211 L917,1527.6211 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><rect fill="#ADD8E6" height="36.2969" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="125" x="792" y="1555.7695"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="105" x="802" y="1578.7646">Безопасность</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="20" x="729" y="1569.6162">ИБ</text><path d="M792,1573.918 L782,1573.918 C767,1573.918 777,1564.7695 762,1564.7695 L752,1564.7695 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="53" x="696" y="1587.9131">Бизнес</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="79" x="574" y="1587.9131">Антифрод</text><path d="M696,1583.0664 L686,1583.0664 C671,1583.0664 681,1583.0664 666,1583.0664 L656,1583.0664 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M792,1573.918 L782,1573.918 C767,1573.918 777,1583.0664 762,1583.0664 L752,1583.0664 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M957,1342.4336 L947,1342.4336 C932,1342.4336 942,1573.918 927,1573.918 L917,1573.918 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><path d="M1177,902.9805 L1167,902.9805 C1152,902.9805 1162,1342.4336 1147,1342.4336 L1137,1342.4336 " fill="none" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[549650cb209625b9b57a46f5c3362ae9]
+@startmindmap
+!theme plain
+legend top
+    |Обозначение| Что делать |
+    |<#lightgreen>| Какая задача перед тобой стоит?|
+    |<#lightblue>| Уточни|
+    |Без рамки| Изучи|
+endlegend
+* Delivery Manager
+**[#lightgreen] Управление изменениями
+***[#lightblue] Анализ/изучение контекста
+****_ Модель «Кеневин»
+****_ Дерево текущей/будущей реальности
+****_ Пять почему
+****_ Диаграмма Исикавы
+****_ PDCA
+***[#lightblue] Последовательность
+****_ [[change-management/order/kotter-8-steps 8 шагов Коттера]]
+****_ ADKAR
+****_ Модель Курта Левина
+**[#lightgreen] Управление людьми
+***[#lightblue] Роли
+****[#lightblue] Анализ
+*****_ PAEI (код Адизеса)
+***[#lightblue] Обучение
+****_ Менторинг
+****_ Коучинг
+**[#lightgreen] Управление работой
+***[#lightblue] Задачами
+****[#lightblue] Планирование
+*****_ На основе данных
+******_ Метод Монте-Карло
+*****_ Недельное, месячное, квартальное, годовое и т. д.
+*****_ Револьверное
+****[#lightblue] Приоритезация
+*****_ Скорринг модели
+******_ RICE
+******_ ICE
+******_ WSJF
+*****_ Оценка рисков
+******_ RAF
+******_ ROAM
+****[#lightblue] Оценка
+***[#lightblue] Проектирование систем
+****_ Value Stream Mapping
+****_ S.T.A.T.I.K.
+***[#lightblue] Фреймворки/подходы
+****_ Lean
+****_ Six Sigma
+**[#lightgreen] Управление продуктом
+***[#lightblue] Знание бизнес-домена
+***[#lightblue] Проектирование
+****_ Модель Kano
+****_ Customer Journey Map
+****_ Lean Startup
+****_ Value Proposition Canvas
+****_ Customer Profile
+****_ Business Model Canvas
+****_ Business Model Portfolio
+****_ Value Map
+**[#lightgreen] Управление окружением
+***[#lightblue] Культура
+****_ Mission Model Canvas
+****_ Culture Map
+***[#lightblue] Доверие
+***[#lightblue] Взаимопомощь
+**[#lightgreen] [[groups-management/ Управление группами]]
+***[#lightblue] Организации
+***[#lightblue] Командами
+****[#lightblue] Запуск
+*****_ Team Kick-off
+****[#lightblue] Роли
+*****_ Матрица RACI
+****[#lightblue] Ре-дизайн
+*****_ [[groups-management/teams/re-design/team-topologies Team Topologies]]
+*****_ unFix
+****[#lightblue] Фреймворки
+*****_ Scrum
+****[#lightblue] Типы
+*****_ Продуктовые
+*****_ Технические
+*****_ Сервисные
+****[#lightblue] Межкомандные взаимодействия
+*****_ Сквозное планирование
+*****_ Работа с зависимостями
+*****_ Работа с передачей опыта другой команде
+***[#lightblue] Племена/социальные группы
+***[#lightblue] Комьюнити
+****_ Community Canvas
+**[#lightgreen] Управление проектами
+***[#lightblue] Риски
+***[#lightblue] Сроки
+***[#lightblue] Бюджет
+***[#lightblue] Документация
+***[#lightblue] Безопасность
+***[#lightblue] Планирование
+****_ Impact Mapping
+***[#lightblue] Фреймворки/подходы
+****_ PMBook
+****_ Prince2
+****_ Team Alignment Map
+left side
+**[#lightgreen] Профессиональное развитие
+***[#lightblue] Работа с информацией
+****[#lightblue] Создание собственной базы знаний
+*****_ Zettelkasten Никласа Лумана
+*****_ Вики подобные способы организации
+*****_ Маркетплейсы/витрины знаний
+*****_ Второй мозг
+***[#lightblue] Фасилитация
+***[#lightblue] Техническое совершенство
+****[#lightblue] Практики разработки
+*****_ Экстремальное программирование
+****[#lightblue] Качество
+****[#lightblue] Настройка инструментов управления работой
+*****_ Atlassian product and etc
+****[#lightblue] Лёгкое кодирование/написание скриптов (Junior)
+*****_ JQL
+*****_ SQL
+*****_ Python
+***[#lightblue] Коммуникации
+****[#lightblue] [[professional-growth/communications/facilitation Фасилитация]]
+*****_ Групп/команд
+*****_ "Крупных" совещаний: страт.сесии и т.д
+****[#lightblue] Storytelling
+****[#lightblue] Интервьюирование
+****[#lightblue] Работа с конфликтами
+*****_ Метод «Грозовая туча»
+****[#lightblue] Обратная связь
+*****[#lightblue] Алгоритмы
+******_ Модель Павла Безручко
+******_ Модель «Бутерброд» (+-+)
+******_ Модель «Светофор»
+******_ Модель компании Леруа-Мерлен
+******_ Модель GROW
+*****[#lightblue] Виды
+******_ Оперативная
+*******_ Поддерживающая
+*******_ Корректирующая
+******_ По результатам периода/времени
+****[#lightblue] [[professional-growth/communications/oratory Ораторское искусство]]
+***[#lightblue] Обучение
+****[#lightblue] Воркшопы
+****[#lightblue] Менторинг
+****[#lightblue] Коучинг
+***[#lightblue] Работа с цифрами (данными)
+****_ Теория вероятности
+****_ Математика
+*****_ Математика рисков (Талеб)
+****_ Метрики
+*****_ Умение принимать решение/делать выводы
+*****_ Чтение
+**[#lightgreen] Знание других ролей
+***[#lightblue] Product Owner
+****_ Product Manager
+***[#lightblue] Разработчик
+****_ Архитектор
+***[#lightblue] QA
+****_ Ручной
+****_ Автоматизатор
+***[#lightblue] Рекрутер
+***[#lightblue] Руководитель
+****_ Тимлид
+****_ Топ-менеджер
+***[#lightblue] Маркетинг, PR, отдел продаж
+***[#lightblue] Заказчик
+****_ Стейкхолдер
+***[#lightblue] Аналитик
+****_ Системный аналитик
+****_ Бизнес аналитик
+***[#lightblue] Поддержка
+***[#lightblue] Дизайнер
+****_ UI/UX
+***[#lightblue] Безопасность
+****_ ИБ
+****_ Бизнес
+*****_ Антифрод
+@endmindmap
+
+@startmindmap
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+legend top
+    |Обозначение| Что делать |
+    |<#lightgreen>| Какая задача перед тобой стоит?|
+    |<#lightblue>| Уточни|
+    |Без рамки| Изучи|
+endlegend
+* Delivery Manager
+**[#lightgreen] Управление изменениями
+***[#lightblue] Анализ/изучение контекста
+****_ Модель «Кеневин»
+****_ Дерево текущей/будущей реальности
+****_ Пять почему
+****_ Диаграмма Исикавы
+****_ PDCA
+***[#lightblue] Последовательность
+****_ [[change-management/order/kotter-8-steps 8 шагов Коттера]]
+****_ ADKAR
+****_ Модель Курта Левина
+**[#lightgreen] Управление людьми
+***[#lightblue] Роли
+****[#lightblue] Анализ
+*****_ PAEI (код Адизеса)
+***[#lightblue] Обучение
+****_ Менторинг
+****_ Коучинг
+**[#lightgreen] Управление работой
+***[#lightblue] Задачами
+****[#lightblue] Планирование
+*****_ На основе данных
+******_ Метод Монте-Карло
+*****_ Недельное, месячное, квартальное, годовое и т. д.
+*****_ Револьверное
+****[#lightblue] Приоритезация
+*****_ Скорринг модели
+******_ RICE
+******_ ICE
+******_ WSJF
+*****_ Оценка рисков
+******_ RAF
+******_ ROAM
+****[#lightblue] Оценка
+***[#lightblue] Проектирование систем
+****_ Value Stream Mapping
+****_ S.T.A.T.I.K.
+***[#lightblue] Фреймворки/подходы
+****_ Lean
+****_ Six Sigma
+**[#lightgreen] Управление продуктом
+***[#lightblue] Знание бизнес-домена
+***[#lightblue] Проектирование
+****_ Модель Kano
+****_ Customer Journey Map
+****_ Lean Startup
+****_ Value Proposition Canvas
+****_ Customer Profile
+****_ Business Model Canvas
+****_ Business Model Portfolio
+****_ Value Map
+**[#lightgreen] Управление окружением
+***[#lightblue] Культура
+****_ Mission Model Canvas
+****_ Culture Map
+***[#lightblue] Доверие
+***[#lightblue] Взаимопомощь
+**[#lightgreen] [[groups-management/ Управление группами]]
+***[#lightblue] Организации
+***[#lightblue] Командами
+****[#lightblue] Запуск
+*****_ Team Kick-off
+****[#lightblue] Роли
+*****_ Матрица RACI
+****[#lightblue] Ре-дизайн
+*****_ [[groups-management/teams/re-design/team-topologies Team Topologies]]
+*****_ unFix
+****[#lightblue] Фреймворки
+*****_ Scrum
+****[#lightblue] Типы
+*****_ Продуктовые
+*****_ Технические
+*****_ Сервисные
+****[#lightblue] Межкомандные взаимодействия
+*****_ Сквозное планирование
+*****_ Работа с зависимостями
+*****_ Работа с передачей опыта другой команде
+***[#lightblue] Племена/социальные группы
+***[#lightblue] Комьюнити
+****_ Community Canvas
+**[#lightgreen] Управление проектами
+***[#lightblue] Риски
+***[#lightblue] Сроки
+***[#lightblue] Бюджет
+***[#lightblue] Документация
+***[#lightblue] Безопасность
+***[#lightblue] Планирование
+****_ Impact Mapping
+***[#lightblue] Фреймворки/подходы
+****_ PMBook
+****_ Prince2
+****_ Team Alignment Map
+left side
+**[#lightgreen] Профессиональное развитие
+***[#lightblue] Работа с информацией
+****[#lightblue] Создание собственной базы знаний
+*****_ Zettelkasten Никласа Лумана
+*****_ Вики подобные способы организации
+*****_ Маркетплейсы/витрины знаний
+*****_ Второй мозг
+***[#lightblue] Фасилитация
+***[#lightblue] Техническое совершенство
+****[#lightblue] Практики разработки
+*****_ Экстремальное программирование
+****[#lightblue] Качество
+****[#lightblue] Настройка инструментов управления работой
+*****_ Atlassian product and etc
+****[#lightblue] Лёгкое кодирование/написание скриптов (Junior)
+*****_ JQL
+*****_ SQL
+*****_ Python
+***[#lightblue] Коммуникации
+****[#lightblue] [[professional-growth/communications/facilitation Фасилитация]]
+*****_ Групп/команд
+*****_ "Крупных" совещаний: страт.сесии и т.д
+****[#lightblue] Storytelling
+****[#lightblue] Интервьюирование
+****[#lightblue] Работа с конфликтами
+*****_ Метод «Грозовая туча»
+****[#lightblue] Обратная связь
+*****[#lightblue] Алгоритмы
+******_ Модель Павла Безручко
+******_ Модель «Бутерброд» (+-+)
+******_ Модель «Светофор»
+******_ Модель компании Леруа-Мерлен
+******_ Модель GROW
+*****[#lightblue] Виды
+******_ Оперативная
+*******_ Поддерживающая
+*******_ Корректирующая
+******_ По результатам периода/времени
+****[#lightblue] [[professional-growth/communications/oratory Ораторское искусство]]
+***[#lightblue] Обучение
+****[#lightblue] Воркшопы
+****[#lightblue] Менторинг
+****[#lightblue] Коучинг
+***[#lightblue] Работа с цифрами (данными)
+****_ Теория вероятности
+****_ Математика
+*****_ Математика рисков (Талеб)
+****_ Метрики
+*****_ Умение принимать решение/делать выводы
+*****_ Чтение
+**[#lightgreen] Знание других ролей
+***[#lightblue] Product Owner
+****_ Product Manager
+***[#lightblue] Разработчик
+****_ Архитектор
+***[#lightblue] QA
+****_ Ручной
+****_ Автоматизатор
+***[#lightblue] Рекрутер
+***[#lightblue] Руководитель
+****_ Тимлид
+****_ Топ-менеджер
+***[#lightblue] Маркетинг, PR, отдел продаж
+***[#lightblue] Заказчик
+****_ Стейкхолдер
+***[#lightblue] Аналитик
+****_ Системный аналитик
+****_ Бизнес аналитик
+***[#lightblue] Поддержка
+***[#lightblue] Дизайнер
+****_ UI/UX
+***[#lightblue] Безопасность
+****_ ИБ
+****_ Бизнес
+*****_ Антифрод
+@endmindmap
+
+PlantUML version 1.2022.10beta1(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

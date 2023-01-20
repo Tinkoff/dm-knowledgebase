@@ -1,0 +1,4 @@
+label: 'Управление изменениями'
+position: 10
+collapsible: false
+className: disabled-category
