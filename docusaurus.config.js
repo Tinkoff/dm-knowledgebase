@@ -43,8 +43,9 @@ module.exports = {
           type: 'doc',
           docId: 'profession/about',
           position: 'left',
-          label: 'Профессия',
+          label: 'Документация',
         },
+        {to: 'blog', label: 'Блог', position: 'left'},
         {
           type: 'docsVersionDropdown',
           position: 'right',
