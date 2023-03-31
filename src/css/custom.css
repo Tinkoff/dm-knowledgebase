@@ -255,57 +255,29 @@ html[data-theme='dark'] .navbar__logo {
     --ifm-container-width-xl: 1600px;
 }
 
-.theme-doc-sidebar-item-link.theme-doc-sidebar-item-link-level-1.menu__list-item.roadmap .menu__link {
+.menu__list .menu__list .menu__link {
     font-size: 13px;
-    font-weight: var(--ifm-font-weight-bold);
 }
 
-.theme-doc-sidebar-item-link.theme-doc-sidebar-item-link-level-1.menu__list-item.roadmap .menu__link.menu__link--active {
-    font-size: 13px;
-    font-weight: var(--ifm-font-weight-bold);
-    text-decoration: underline;
+.menu__list .menu__list-item-collapsible .menu__link {
+    font-size: 15px;
 }
 
-.theme-doc-sidebar-item-category.theme-doc-sidebar-item-category-level-1.menu__list-item.disabled-category .menu__link,
-.theme-doc-sidebar-item-category.theme-doc-sidebar-item-category-level-1.menu__list-item.roadmap .menu__link {
-    font-size: 13px;
-    font-weight: var(--ifm-font-weight-bold);
-    color: #008000;
+#__docusaurus .theme-doc-sidebar-menu.menu__list .menu__link--active:before {
+    background-color: #1890ff;
+    border-radius: 4px;
+    content: '' !important;
+    display: block !important;
+    height: 4px;
+    left: 2px;
+    pointer-events: none;
+    position: absolute !important;
+    top: 14px;
+    width: 4px;
 }
 
-.theme-doc-sidebar-item-category.theme-doc-sidebar-item-category-level-1.menu__list-item.disabled-category .menu__link.menu__link--active,
-.theme-doc-sidebar-item-category.theme-doc-sidebar-item-category-level-1.menu__list-item.roadmap .menu__link.menu__link--active {
-    font-size: 13px;
-    font-weight: var(--ifm-font-weight-bold);
-    color: #008000;
-    text-decoration: underline;
-}
-
-.theme-doc-sidebar-item-category.theme-doc-sidebar-item-category-level-2.menu__list-item.disabled-category .menu__link,
-.theme-doc-sidebar-item-category.theme-doc-sidebar-item-category-level-2.menu__list-item.disabled-category .menu__link.menu__link--active,
-.theme-doc-sidebar-item-category.theme-doc-sidebar-item-category-level-2.menu__list-item.roadmap .menu__link,
-.theme-doc-sidebar-item-category.theme-doc-sidebar-item-category-level-2.menu__list-item.roadmap .menu__link.menu__link--active,
-.theme-doc-sidebar-item-category.theme-doc-sidebar-item-category-level-3.menu__list-item.disabled-category .menu__link,
-.theme-doc-sidebar-item-category.theme-doc-sidebar-item-category-level-3.menu__list-item.disabled-category .menu__link.menu__link--active {
-    font-size: 13px;
-    font-weight: var(--ifm-font-weight-bold);
-    color: #0000ff;
-}
-
-.theme-doc-sidebar-item-link.theme-doc-sidebar-item-link-level-3.menu__list-item.roadmap .menu__link,
-.theme-doc-sidebar-item-link.theme-doc-sidebar-item-link-level-3.menu__list-item.roadmap .menu__link.menu__link--active,
-.theme-doc-sidebar-item-link.theme-doc-sidebar-item-link-level-3.menu__list-item.disabled-page .menu__link,
-.theme-doc-sidebar-item-link.theme-doc-sidebar-item-link-level-3.menu__list-item.disabled-page .menu__link.menu__link--active,
-.theme-doc-sidebar-item-link.theme-doc-sidebar-item-link-level-4.menu__list-item.disabled-page .menu__link,
-.theme-doc-sidebar-item-link.theme-doc-sidebar-item-link-level-4.menu__list-item.roadmap .menu__link,
-.theme-doc-sidebar-item-link.theme-doc-sidebar-item-link-level-4.menu__list-item.roadmap .menu__link.menu__link--active,
-.theme-doc-sidebar-item-link.theme-doc-sidebar-item-link-level-5.menu__list-item.disabled-page .menu__link {
-    font-size: 12px;
-    font-weight: var(--ifm-font-weight-bold);
-    color: var(--color-gray-82);
-}
-
-.theme-doc-sidebar-item-category.theme-doc-sidebar-item-category-level-1.menu__list-item.disabled-category .menu__list-item-collapsible {
+.theme-doc-sidebar-item-category.theme-doc-sidebar-item-category-level-1.menu__list-item.disabled-category
+.menu__list-item-collapsible {
     color: currentColor;
     cursor: not-allowed;
     opacity: 0.5;
@@ -313,7 +285,8 @@ html[data-theme='dark'] .navbar__logo {
     pointer-events: none;
 }
 
-.theme-doc-sidebar-item-category.theme-doc-sidebar-item-category-level-2.menu__list-item.disabled-category .menu__list-item-collapsible {
+.theme-doc-sidebar-item-category.theme-doc-sidebar-item-category-level-2.menu__list-item.disabled-category
+.menu__list-item-collapsible {
     color: currentColor;
     cursor: not-allowed;
     opacity: 0.5;
@@ -327,4 +300,12 @@ html[data-theme='dark'] .navbar__logo {
     opacity: 0.5;
     text-decoration: none;
     pointer-events: none;
+}
+
+/*** mermaid ***/
+
+#graph-div{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;fill:#000000;}#graph-div .error-icon{fill:#552222;}#graph-div .error-text{fill:#552222;stroke:#552222;}#graph-div .edge-thickness-normal{stroke-width:2px;}#graph-div .edge-thickness-thick{stroke-width:3.5px;}#graph-div .edge-pattern-solid{stroke-dasharray:0;}#graph-div .edge-pattern-dashed{stroke-dasharray:3;}#graph-div .edge-pattern-dotted{stroke-dasharray:2;}#graph-div .marker{fill:#666;stroke:#666;}#graph-div .marker.cross{stroke:#666;}#graph-div svg{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;}#graph-div .edge{stroke-width:3;}#graph-div .section--1 rect,#graph-div .section--1 path,#graph-div .section--1 circle,#graph-div .section--1 polygon,#graph-div .section--1 path{fill:#555;}#graph-div .section--1 text{fill:#F4F4F4;}#graph-div .node-icon--1{font-size:40px;color:#F4F4F4;}#graph-div .section-edge--1{stroke:#555;}#graph-div .edge-depth--1{stroke-width:17;}#graph-div .section--1 line{stroke:#aaaaaa;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-0 rect,#graph-div .section-0 path,#graph-div .section-0 circle,#graph-div .section-0 polygon,#graph-div .section-0 path{fill:#F4F4F4;}#graph-div .section-0 text{fill:calculated;}#graph-div .node-icon-0{font-size:40px;color:calculated;}#graph-div .section-edge-0{stroke:#F4F4F4;}#graph-div .edge-depth-0{stroke-width:14;}#graph-div .section-0 line{stroke:#0b0b0b;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-1 rect,#graph-div .section-1 path,#graph-div .section-1 circle,#graph-div .section-1 polygon,#graph-div .section-1 path{fill:#555;}#graph-div .section-1 text{fill:#F4F4F4;}#graph-div .node-icon-1{font-size:40px;color:#F4F4F4;}#graph-div .section-edge-1{stroke:#555;}#graph-div .edge-depth-1{stroke-width:11;}#graph-div .section-1 line{stroke:#aaaaaa;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-2 rect,#graph-div .section-2 path,#graph-div .section-2 circle,#graph-div .section-2 polygon,#graph-div .section-2 path{fill:#BBB;}#graph-div .section-2 text{fill:calculated;}#graph-div .node-icon-2{font-size:40px;color:calculated;}#graph-div .section-edge-2{stroke:#BBB;}#graph-div .edge-depth-2{stroke-width:8;}#graph-div .section-2 line{stroke:#444444;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-3 rect,#graph-div .section-3 path,#graph-div .section-3 circle,#graph-div .section-3 polygon,#graph-div .section-3 path{fill:#777;}#graph-div .section-3 text{fill:calculated;}#graph-div .node-icon-3{font-size:40px;color:calculated;}#graph-div .section-edge-3{stroke:#777;}#graph-div .edge-depth-3{stroke-width:5;}#graph-div .section-3 line{stroke:#888888;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-4 rect,#graph-div .section-4 path,#graph-div .section-4 circle,#graph-div .section-4 polygon,#graph-div .section-4 path{fill:#999;}#graph-div .section-4 text{fill:calculated;}#graph-div .node-icon-4{font-size:40px;color:calculated;}#graph-div .section-edge-4{stroke:#999;}#graph-div .edge-depth-4{stroke-width:2;}#graph-div .section-4 line{stroke:#666666;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-5 rect,#graph-div .section-5 path,#graph-div .section-5 circle,#graph-div .section-5 polygon,#graph-div .section-5 path{fill:#DDD;}#graph-div .section-5 text{fill:calculated;}#graph-div .node-icon-5{font-size:40px;color:calculated;}#graph-div .section-edge-5{stroke:#DDD;}#graph-div .edge-depth-5{stroke-width:-1;}#graph-div .section-5 line{stroke:#222222;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-6 rect,#graph-div .section-6 path,#graph-div .section-6 circle,#graph-div .section-6 polygon,#graph-div .section-6 path{fill:#FFF;}#graph-div .section-6 text{fill:calculated;}#graph-div .node-icon-6{font-size:40px;color:calculated;}#graph-div .section-edge-6{stroke:#FFF;}#graph-div .edge-depth-6{stroke-width:-4;}#graph-div .section-6 line{stroke:#000000;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-7 rect,#graph-div .section-7 path,#graph-div .section-7 circle,#graph-div .section-7 polygon,#graph-div .section-7 path{fill:#DDD;}#graph-div .section-7 text{fill:calculated;}#graph-div .node-icon-7{font-size:40px;color:calculated;}#graph-div .section-edge-7{stroke:#DDD;}#graph-div .edge-depth-7{stroke-width:-7;}#graph-div .section-7 line{stroke:#222222;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-8 rect,#graph-div .section-8 path,#graph-div .section-8 circle,#graph-div .section-8 polygon,#graph-div .section-8 path{fill:#BBB;}#graph-div .section-8 text{fill:calculated;}#graph-div .node-icon-8{font-size:40px;color:calculated;}#graph-div .section-edge-8{stroke:#BBB;}#graph-div .edge-depth-8{stroke-width:-10;}#graph-div .section-8 line{stroke:#444444;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-9 rect,#graph-div .section-9 path,#graph-div .section-9 circle,#graph-div .section-9 polygon,#graph-div .section-9 path{fill:#999;}#graph-div .section-9 text{fill:calculated;}#graph-div .node-icon-9{font-size:40px;color:calculated;}#graph-div .section-edge-9{stroke:#999;}#graph-div .edge-depth-9{stroke-width:-13;}#graph-div .section-9 line{stroke:#666666;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-10 rect,#graph-div .section-10 path,#graph-div .section-10 circle,#graph-div .section-10 polygon,#graph-div .section-10 path{fill:#777;}#graph-div .section-10 text{fill:calculated;}#graph-div .node-icon-10{font-size:40px;color:calculated;}#graph-div .section-edge-10{stroke:#777;}#graph-div .edge-depth-10{stroke-width:-16;}#graph-div .section-10 line{stroke:#888888;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-root rect,#graph-div .section-root path,#graph-div .section-root circle,#graph-div .section-root polygon{fill:hsl(0, 0%, 70.6862745098%);}#graph-div .section-root text{fill:#333;}#graph-div .icon-container{height:100%;display:flex;justify-content:center;align-items:center;}#graph-div .edge{fill:none;}#graph-div :root{--mermaid-font-family:"trebuchet ms",verdana,arial,sans-serif;}
+
+#graph-div a {
+    text-decoration: underline;
 }

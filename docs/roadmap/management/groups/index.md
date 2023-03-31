@@ -8,8 +8,6 @@ sidebar_class_name: roadmap
 graph LR
 %%{ init: { 'flowchart': { 'nodeSpacing': 10, 'rankSpacing': 200 }}}%%
     A[Управление группами] --- B1(Организации) & B2(Команды) & B3(Племена/социальные группы) & B4(Комьюнити)
-    click B2 "teams/"
-    class B2 mermaid-link;
 ```
 
 ## О чём это направление
