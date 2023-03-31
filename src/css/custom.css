@@ -217,6 +217,10 @@ text > a {
   text-decoration: underline !important;
 }
 
+.content-box {
+    columns: 2 auto;
+}
+
 .excalidraw {
   margin-bottom: 10px;
 }
