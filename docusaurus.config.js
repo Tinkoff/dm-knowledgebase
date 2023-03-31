@@ -68,11 +68,11 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          lastVersion: '0.0.1',
+          lastVersion: 'current',
           versions: {
             current: {
-              label: '1.0.0 🚧',
-              banner: 'unreleased',
+              label: '1.0.0',
+              //banner: 'unreleased',
             },
           },
           sidebarPath: require.resolve('./sidebars.js'),
