@@ -71,7 +71,7 @@ module.exports = {
           lastVersion: 'current',
           versions: {
             current: {
-              label: '1.0.0',
+              label: '⚡ 1.0.0',
               //banner: 'unreleased',
             },
           },
