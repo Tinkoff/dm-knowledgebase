@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Knowledge Base',
-  tagline: 'База знаний профессии Delivery Manager',
+  title: 'Деливери менеджер',
+  tagline: 'Кто это, задачи, обязанности, как им стать, карта развития',
   url: 'https://tinkoff.github.io',
   baseUrl: '/dm-knowledgebase/',
   onBrokenLinks: 'log',
@@ -35,7 +35,7 @@ module.exports = {
     navbar: {
       title: 'DM Knowledge Base',
       logo: {
-        alt: 'DM Knowledge Base',
+        alt: 'База знаний профессии Деливери менеджер',
         src: 'img/logo.svg',
       },
       items: [

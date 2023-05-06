@@ -12,7 +12,7 @@ function HomepageHeader() {
     return (
         <header className={clsx('hero hero--primary', styles.heroBanner)}>
             <div className="container">
-                <h1 className="hero__title">Delivery Manager's {siteConfig.title}</h1>
+                <h1 className="hero__title">База знаний профессии {siteConfig.title}</h1>
                 <p className="hero__subtitle">{siteConfig.tagline}</p>
                 <div className={styles.buttons}>
                     <Link
@@ -31,7 +31,7 @@ export default function Home() {
     return (
         <Layout
             title="Delivery Manager"
-            description="База знаний профессии Delivery Manager">
+            description="База знаний профессии Деливери менеджер">
             <HomepageHeader />
             <main>
                 <HomepageFeatures />
