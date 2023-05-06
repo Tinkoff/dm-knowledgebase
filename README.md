@@ -1,4 +1,4 @@
-# Delivery Manager's Knowledge Base
+# База знаний профессии Деливери менеджер
 База знаний профессии Деливери менеджер (Delivery Manager). Изучать удобнее всего на [нашем сайте](https://tinkoff.github.io/dm-knowledgebase/).
 
 ## Зачем это всё
