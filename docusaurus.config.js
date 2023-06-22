@@ -59,7 +59,7 @@ module.exports = {
       ],
     },
     footer: {
-      style: 'dark',
+      style: 'light',
       copyright: `© 2006-${new Date().getFullYear()} АО «Тинькофф Банк»`,
     },
   },
