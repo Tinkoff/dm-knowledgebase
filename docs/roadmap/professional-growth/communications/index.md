@@ -9,3 +9,11 @@ graph LR
     classDef label-link text-decoration: underline;
     class B1,B7 label-link
 ```
+
+## О чём это направление
+
+## Почему важно работать с этим направлением
+
+## Дополнительные материалы
+* [Книги, видео, подкасты](/docs/profession/good-to-know)
+* [Анти-паттерны](/docs/profession/antipatterns)
