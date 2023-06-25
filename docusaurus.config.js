@@ -16,7 +16,18 @@ module.exports = {
   themes: ['@docusaurus/theme-mermaid'],
   themeConfig: {
     mermaid: {
-      theme: {light: 'neutral', dark: 'dark'},
+      theme: {light: 'base', dark: 'dark'},
+      options: {
+        flowchart: {
+          curve: 'monotoneX',
+        },
+        themeVariables: {
+          'primaryColor': '#E6E9F6',
+          'primaryTextColor': '#000000',
+          'primaryBorderColor': '#E6E9F6',
+          'lineColor': '#5E73E1'
+        }
+      }
     },
     colorMode: {
       defaultMode: 'light',
