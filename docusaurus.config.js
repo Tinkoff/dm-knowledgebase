@@ -6,7 +6,7 @@ module.exports = {
   baseUrl: '/dm-knowledgebase/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
   organizationName: 'Tinkoff', // Usually your GitHub org/user name.
   projectName: 'dm-knowledgebase', // Usually your repo name.
   trailingSlash: false,
