@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tinkoff.github.io/dm-knowledgebase/blog"/>
     <subtitle>Деливери менеджер Blog</subtitle>
-    <icon>https://tinkoff.github.io/dm-knowledgebase/img/favicon.ico</icon>
+    <icon>https://tinkoff.github.io/dm-knowledgebase/img/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[Version 1.0]]></title>
         <id>https://tinkoff.github.io/dm-knowledgebase/blog/2023/03/31/version-1</id>
