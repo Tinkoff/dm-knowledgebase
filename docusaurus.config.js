@@ -1,4 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
+const math = require('remark-math');
+const katex = require('rehype-katex');
 module.exports = {
   title: 'Деливери менеджер',
   tagline: 'Кто это, задачи, обязанности, как им стать, карта развития',
@@ -16,7 +18,7 @@ module.exports = {
   themes: ['@docusaurus/theme-mermaid'],
   themeConfig: {
     mermaid: {
-      theme: {light: 'base', dark: 'dark'},
+      theme: { light: 'base', dark: 'dark' },
       options: {
         flowchart: {
           curve: 'monotoneX',
@@ -49,14 +51,13 @@ module.exports = {
         alt: 'База знаний профессии Деливери менеджер',
         src: 'img/logo.svg',
       },
-      items: [
-        {
+      items: [{
           type: 'doc',
           docId: 'profession/about',
           position: 'left',
           label: 'Документация',
         },
-        {to: 'blog', label: 'Блог', position: 'left'},
+        { to: 'blog', label: 'Блог', position: 'left' },
         {
           type: 'docsVersionDropdown',
           position: 'right',
@@ -88,8 +89,9 @@ module.exports = {
           },
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/Tinkoff/dm-knowledgebase/edit/main/',
+          editUrl: 'https://github.com/Tinkoff/dm-knowledgebase/edit/main/',
+          remarkPlugins: [math],
+          rehypePlugins: [katex],
         },
         gtag: {
           trackingID: 'G-CNJ52NL21B',
@@ -101,6 +103,12 @@ module.exports = {
       },
     ],
   ],
+  stylesheets: [{
+    href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
+    type: 'text/css',
+    integrity: 'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
+    crossorigin: 'anonymous',
+  }, ],
   plugins: [
     [
       require.resolve('docusaurus-lunr-search'),
