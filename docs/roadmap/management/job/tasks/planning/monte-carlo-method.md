@@ -456,3 +456,5 @@ const historicalDataThroughput = [
 
 ![S-Curve](./assets/Monte-Carlo-S-Curve.png)
 :::
+
+[© controlchart](https://t.me/controlcharts)
