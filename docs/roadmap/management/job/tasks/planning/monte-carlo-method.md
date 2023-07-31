@@ -9,7 +9,7 @@ import MonteCarloAllExperiments from './assets/Monte-carlo-all-experiments.png';
 import MonteCarloResultProbably from './assets/Monte-Carlo-Result-Probably.png';
 import styles from './monte-carlo-method.module.css';
 
-# Метод <nobr>Монте-Карло</nobr>
+# Метод Монте-Карло
 
 :::note
 Для начала введем термины:
