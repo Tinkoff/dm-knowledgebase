@@ -1,0 +1,13 @@
+.noWrap td {
+  white-space: nowrap;
+  padding: 2px;
+  text-align: center;
+}
+
+.vertical td {
+  white-space: nowrap;
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  padding: 2px;
+  text-align: center;
+}
