@@ -6,8 +6,8 @@
 
 .vertical td {
   white-space: nowrap;
-  writing-mode: vertical-rl;
-  transform: rotate(180deg);
+  writing-mode: bt-rl;
+  transform: rotate(-90deg);
   padding: 2px;
   text-align: center;
 }
