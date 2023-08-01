@@ -6,7 +6,7 @@ import MonteCarloBurndownChart from './assets/Monte-Carlo-Burndown-chart.jpg';
 import MonteCarloBurndownChartFull from './assets/Monte-Carlo-Burndown-chart-full.jpg';
 import MonteCarloAllExperiments from './assets/Monte-carlo-all-experiments.png';
 import MonteCarloResultProbably from './assets/Monte-Carlo-Result-Probably.png';
-import styles from './monte-carlo-method.module.css';
+import styles from './assets/monte-carlo-method.module.css';
 
 # Метод Монте-Карло
 
