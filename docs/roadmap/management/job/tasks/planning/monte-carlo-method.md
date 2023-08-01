@@ -1,5 +1,4 @@
 ---
-sidebar_class_name: enabled-page
 description: Как работает метод <nobr>Монте-Карло</nobr>
 ---
 import MonteCarloThroughput from './assets/Monte-Carlo-Throughput.png';
