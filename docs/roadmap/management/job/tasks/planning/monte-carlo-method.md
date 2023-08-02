@@ -1,5 +1,5 @@
 ---
-description: Как работает метод <nobr>Монте-Карло</nobr>
+description: Как работает метод Монте-Карло
 ---
 import MonteCarloThroughput from './assets/Monte-Carlo-Throughput.png';
 import MonteCarloBurndownChart from './assets/Monte-Carlo-Burndown-chart.jpg';
