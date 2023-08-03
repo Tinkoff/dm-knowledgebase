@@ -92,6 +92,7 @@ module.exports = {
           editUrl: 'https://github.com/Tinkoff/dm-knowledgebase/edit/main/',
           remarkPlugins: [math],
           rehypePlugins: [katex],
+          showLastUpdateAuthor: true,
         },
         gtag: {
           trackingID: 'G-CNJ52NL21B',
