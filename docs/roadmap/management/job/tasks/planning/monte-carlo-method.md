@@ -1,11 +1,12 @@
 ---
-description: Как работает метод <nobr>Монте-Карло</nobr>
+description: Как работает метод Монте-Карло
 ---
 import MonteCarloThroughput from './assets/Monte-Carlo-Throughput.png';
 import MonteCarloBurndownChart from './assets/Monte-Carlo-Burndown-chart.jpg';
 import MonteCarloBurndownChartFull from './assets/Monte-Carlo-Burndown-chart-full.jpg';
 import MonteCarloAllExperiments from './assets/Monte-carlo-all-experiments.png';
 import MonteCarloResultProbably from './assets/Monte-Carlo-Result-Probably.png';
+import MonteCarloWithRisk from  './assets/Monte-Carlo-with-risks.png';
 import styles from './assets/monte-carlo-method.module.css';
 
 # Метод Монте-Карло
@@ -262,13 +263,14 @@ const historicalDataThroughput = [
 
 ### Можно ли в модели учесть неожиданные события?
 
-Да, вполне, вы так же можете задать случайно возникающие риски которые могут случится с какой-то вероятностью.
+Да, вполне! Вы так же можете учесть возможные риски которые могут случится с какой-то вероятностью.
 
-Тогда в эту модель вы добавить функциональность которая может сработать с какой-то вероятностью и добавить еще задач к проекту при наступлении риска.
+Для этого добавим функциональность, которая в зависимости от наступления риска добавялет некое количество задач, указанное в пределах
+от минимального до максимального количества возможных для этого риска.
 
-Тогда нам нужно определить заранее предполагаемую вероятность наступления риска, и предположить сколько задач он может добавить.
+Нам нужно определить заранее предполагаемую вероятность наступления риска, и предположить сколько задач он может добавить или убрать какое-то количество.
 
-Так же какой-то риск и убавить задач из проекта.
+<img src={MonteCarloWithRisk} width="600px" alt="Добавление задач к проекту при возникновении риска" />
 
 ### Алгоритм метода на JavaScript с учетом рисков
 
@@ -281,99 +283,106 @@ const historicalDataThroughput = [
 // итерация - минимальная единица времени в которой хотим считать
 // длительность проекта
 const historicalDataThroughput = [
-    4, 1, 2, 1, 4, 3, 2, 3, 2, 3, 6,
-    3, 2, 1, 6, 13, 3, 1, 6, 1, 2,
-    4, 4, 6, 3, 1, 3, 3, 6, 6, 2,
-    6, 2, 1
-  ];
-  
-  // количество задач в проекте
-  const countTaskInProject = 40;
+  4, 1, 2, 1, 4, 3, 2, 3, 2, 3, 6,
+  3, 2, 1, 6, 13, 3, 1, 6, 1, 2,
+  4, 4, 6, 3, 1, 3, 3, 6, 6, 2,
+  6, 2, 1
+];
 
-  // Риски которые могут случится с какой-то вероятностью
-  // И добавить новых задач к проекту
-  // Предполагаем что риск может сработать один раз
-  const risks = [
-    // С вероятностью 2% наступления риска, к проекту добавится 20 задач
-    { probability: 2, countNewTasks: 20},
-    // С вероятностью 12% наступления риска, к проекту добавится 4 задач
-    { probability: 12, countNewTasks: 4},
-    // С вероятностью 5% наступления риска, к проекту добавится 2 задач
-    { probability: 5, countNewTasks: 2},
-    // С вероятностью 4% наступления риска, от проекта отнимется 8 задач
-    { probability: 4, countNewTasks: -8},
-  ]
-  
-  const result = MonteCarloForProject(
-        historicalDataThroughput,
-        countTaskInProject,
-        risks,
-        10000
-    );
-  
-  console.table(result)
-  
-  /**
-   * Получить распределение вероятности завершения проекта
-   * на основе количества решаемых задач за итерацию
-   * 
-   * @param {Array<Number>} historicalDataThroughput Набор испторических данных по пропускной способности
-   * @param {Number} countTaskInProject Количество задач в проекте
-   * @param {Array<{probability: Number, countNewTasks: Number}>} risks Риски
-   * @param {Number} numberOfExperiments Количество проводимх эксперимантов
-   * @returns {Array<Number, Number>} key - количество фич в итерации, value - частота
-   */
-  function MonteCarloForProject(
-    historicalDataThroughput,
-    countTaskInProject,
-    risks,
-    numberOfExperiments
-  ) {
-    const result = new Map();
-    const len = historicalDataThroughput.length
-    let experiment = 1;
-    
-    for (; experiment <= numberOfExperiments; experiment++) {
-      let prjTasks = countTaskInProject;
+// количество задач в проекте
+const countTaskInProject = 40;
 
-      // если сгенерированное число меньше чем указанный процент вероятности,
+// Риски которые могут случится с какой-то вероятностью
+// И добавить новых задач к проекту
+// Предполагаем что риск может сработать один раз
+const risks = [
+  // С вероятностью "probability" наступления риска, к проекту добавится от "min" до "max" задач
+  { probability: 2, countTask: { min: 10, max: 15 } },
+  { probability: 12, countTask: { min: 2, max: 20 } },
+  { probability: 5, countTask: { min: 5, max: 12 } },
+  { probability: 4, countTask: { min: -8, max: -2 } },
+]
+
+// Выполнить функцию Монте-Карло и получить результат
+const result = MonteCarloForProject(
+  historicalDataThroughput,
+  countTaskInProject,
+  risks,
+  10000
+);
+
+// Показать результат в консоли
+console.table(result);
+
+/**
+ * Получить распределение вероятности завершения проекта
+ * на основе количества решаемых задач за итерацию
+ *
+ * @param {Array<Number>} historicalDataThroughput Набор испторических данных по пропускной способности
+ * @param {Number} countTaskInProject Количество задач в проекте
+ * @param {Array<{probability: Number, countNewTasks: Number}>} risks Риски
+ * @param {Number} numberOfExperiments Количество проводимх эксперимантов
+ * @returns {Array<Number, Number>} key - количество фич в итерации, value - частота
+ */
+function MonteCarloForProject(
+  historicalDataThroughput,
+  countTaskInProject,
+  risks,
+  numberOfExperiments
+) {
+  const result = new Map();
+  const len = historicalDataThroughput.length
+  let experiment = 1;
+
+  for (; experiment <= numberOfExperiments; experiment++) {
+    let prjTasks = countTaskInProject;
+
+    // Перебираем все риски
+    risks.forEach(r => {
+      let randomForRisk = getRandomBetween(1, 100);
+
+      // Если сгенерированное число меньше чем указанный процент вероятности,
       // считаем что риск случился
-      risks.forEach(r => {
-        // получаем случайное число от 1 до 100
-        // вычисляем случайное число отдельно для каждого риска
-        let randomForRisk = Math.floor(Math.random() * 100) + 1;
-
-        // Если вероятность риска больше полученного числа,
-        // то добавляются новые задачи к проекту
-        if (r.probability > randomForRisk) {
-            prjTasks += r.countNewTasks;
-        }
-      });
-
-      // индекс начинается с "0"
-      let IndexIteration = 0;
-      while (prjTasks > 0) {
-        let randomIndex = Math.floor(Math.random() * len);
-        let countTasks = historicalDataThroughput[randomIndex];
-        IndexIteration += 1;
-        prjTasks = prjTasks - countTasks;
+      if (r.probability > randomForRisk) {
+        // Выбираем случайное количество задач между min и max указанное в риске
+        let countTasks = getRandomBetween(r.min, r.max);
+        // Добавялем их к проекту
+        prjTasks += countTasks;
       }
-  
-      let i = result.get(IndexIteration);
-      result.set(IndexIteration, i ? i + 1 : 1);
+    });
+
+    let IndexIteration = 0;
+    while (prjTasks > 0) {
+      // Выбираем случайное число из набора Throughput
+      let randomIndex = Math.floor(Math.random() * len);
+      // Получаем какое количество задач нужно отнять в эту неделю
+      let countTasks = historicalDataThroughput[randomIndex];
+      // Отнимаем это количество задач
+      prjTasks = prjTasks - countTasks;
+      // Переходим к следующей итерации
+      IndexIteration += 1;
     }
-    let sum = 0;
-    // Из Map переводим в тип Массив, расчитываем вероятность
-    return Array.from(result, ([name, value]) => ({ iteration: name, count: value}))
-      .sort((a, b) => a.iteration - b.iteration)
-      .map((i) => {
-          sum += i.count;
-          return {
-              ...i,
-              probability: sum/numberOfExperiments
-          }
-      })
+
+    // Фиксируем какая итерация получилась
+    let i = result.get(IndexIteration);
+    result.set(IndexIteration, i ? i + 1 : 1);
   }
+  let sum = 0;
+  // Готовим данные к показу результата
+  return Array.from(result, ([name, value]) => ({ iteration: name, count: value }))
+    .sort((a, b) => a.iteration - b.iteration)
+    .map((i) => {
+      sum += i.count;
+      return {
+        ...i,
+        probability: sum / numberOfExperiments
+      }
+    })
+}
+
+function getRandomBetween(min, max) {
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
 ```
 </div>
 </details>
@@ -391,49 +400,50 @@ const historicalDataThroughput = [
 ┌─────────┬───────────┬───────┬─────────────┐
 │ (index) │ iteration │ count │ probability │
 ├─────────┼───────────┼───────┼─────────────┤
-│    0    │     4     │   2   │   0.0002    │
-│    1    │     5     │  10   │   0.0012    │
-│    2    │     6     │  41   │   0.0053    │
-│    3    │     7     │  135  │   0.0188    │
-│    4    │     8     │  324  │   0.0512    │
-│    5    │     9     │  659  │   0.1171    │
-│    6    │    10     │ 1004  │   0.2175    │
-│    7    │    11     │ 1411  │   0.3586    │
-│    8    │    12     │ 1525  │   0.5111    │
-│    9    │    13     │ 1571  │   0.6682    │
-│   10    │    14     │ 1342  │   0.8024    │
-│   11    │    15     │  899  │   0.8923    │
-│   12    │    16     │  531  │   0.9454    │
-│   13    │    17     │  276  │    0.973    │
-│   14    │    18     │  151  │   0.9881    │
-│   15    │    19     │  58   │   0.9939    │
-│   16    │    20     │  37   │   0.9976    │
-│   17    │    21     │   9   │   0.9985    │
-│   18    │    22     │   4   │   0.9989    │
-│   19    │    23     │   6   │   0.9995    │
-│   20    │    24     │   1   │   0.9996    │
-│   21    │    25     │   2   │   0.9998    │
-│   22    │    26     │   1   │   0.9999    │
-│   23    │    27     │   1   │      1      │
+│    0    │     0     │ 1789  │   0.1789    │
+│    1    │     4     │   1   │    0.179    │
+│    2    │     5     │   9   │   0.1799    │
+│    3    │     6     │  31   │    0.183    │
+│    4    │     7     │  103  │   0.1933    │
+│    5    │     8     │  272  │   0.2205    │
+│    6    │     9     │  554  │   0.2759    │
+│    7    │    10     │  866  │   0.3625    │
+│    8    │    11     │ 1149  │   0.4774    │
+│    9    │    12     │ 1335  │   0.6109    │
+│   10    │    13     │ 1375  │   0.7484    │
+│   11    │    14     │ 1031  │   0.8515    │
+│   12    │    15     │  711  │   0.9226    │
+│   13    │    16     │  422  │   0.9648    │
+│   14    │    17     │  208  │   0.9856    │
+│   15    │    18     │  91   │   0.9947    │
+│   16    │    19     │  37   │   0.9984    │
+│   17    │    20     │  14   │   0.9998    │
+│   18    │    21     │   2   │      1      │
 └─────────┴───────────┴───────┴─────────────┘
 ```
 </div>
 </details>
 
-Идею с рисками можно конечно обыграть и тем, что мы можем добавить вероятность добавления случайного количества задач при наступлении риска в каких-то пределах.
+Модель расчетов можно расширять разными способами, и учитывать некоторые особенности реализации проектов в зависимости от контекста.
 
-Например, если мы предполагаем, что риск наступим с вероятностью "p", но при этом этот риск может добавить к проекту от "k" задач до "2k", но сколько мы не знаем.
-
-В этом случае мы так же может задать расчет вероятности сколько количества задач добавит нам этот риск.
+А суть метода останется прежней:
+1. Наблюдаем
+2. Берем исторические данные
+3. Формулируем модель расчета "выгорания" проекта
+4. На основе этих данных используем выбор случайной величины из набора
+5. Вычитаем из проекта количество равное случайной величине, до тех пор, пока не закончатся "очки" проекта
+6. Фиксируем в памяти срок за который закрылся проект
+7. Повторяем алгоритм много раз
+8. Смотрим сколько раз завершался проект за какой срок
 
 ## Выводы
-Даже используя простые модели для моделирования сроков завершения проектов, вы можете при помощи метода <nobr>Монте-Карло,</nobr> определить вероятность завершения проекта.
+Даже используя простую модель расчета, вы можете при помощи метода <nobr>Монте-Карло,</nobr> определить вероятность завершения проекта.
 
 И такая вероятность будет достаточно точной, с учетом того, что ваша система (процессы создания ценности) не изменялись со временем.
 
 Хотя, вы уже понимаете, что моделировать при помощи <nobr>Монте-Крало</nobr> можно и более сложные модели, в том, числе и с учетом предполагаемых изменений. Но надо иметь ввиду, что изменения вводимые в процессы очень сложно прогнозируются, и вы можете построить ошибочную модель.
 
-Мир математики численных методов, на самом деле куда более широк, чем изложен в этой статье. Чего только стоят Байесовские методы, которые могли бы вам помочь в моделировании более сложных процессов.
+Мир математики численных методов куда более широк, чем изложен в этой статье. Чего только стоят [Байесовские методы](https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B9%D0%B5%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0), которые могли бы вам помочь в моделировании более сложных процессов.
 
 Начинайте с простого.
 
